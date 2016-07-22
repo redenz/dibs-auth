@@ -32,7 +32,7 @@ class DibsServiceProvider extends ServiceProvider
 
     private function registerConfig()
     {
-        $configPath = __DIR__ . '/../../config/dibs.php';
+        $configPath = __DIR__ . '/../config/dibs.php';
         $this->publishes([$configPath => config_path('dibs.php')], 'config');
         $this->mergeConfigFrom($configPath, 'dibs');
     }
