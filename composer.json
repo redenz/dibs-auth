@@ -1,5 +1,5 @@
 {
-  "name": "dibs/parse-auth",
+  "name": "dibs/dibs-auth",
   "description": "Parse auth with role check for login",
   "license": "MIT",
   "authors": [
