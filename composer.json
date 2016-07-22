@@ -1,0 +1,21 @@
+{
+  "name": "dibs/parse-auth",
+  "description": "Parse auth with role check for login",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "George Redenz",
+      "email": "redenz@gmail.com"
+    }
+  ],
+  "require": {
+    "parse/php-sdk": "~1.1.2",
+    "nesbot/carbon": "~1.16"
+  },
+  "autoload": {
+    "psr-4": {
+      "Dibs\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
