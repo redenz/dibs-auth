@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Dibs;
 
 use Dibs\Auth\DibsUserProvider;
 use Illuminate\Support\Facades\Auth;
