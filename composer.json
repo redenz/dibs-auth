@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "parse/php-sdk": "~1.2.*",
+    "parse/php-sdk": "~1.2.0",
     "nesbot/carbon": "~1.16"
   },
   "autoload": {
