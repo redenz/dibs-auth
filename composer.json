@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "parse/php-sdk": "~1.1.2",
+    "parse/php-sdk": "~1.2.*",
     "nesbot/carbon": "~1.16"
   },
   "autoload": {
@@ -17,5 +17,5 @@
       "Dibs\\": "src/"
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "dev",
 }
